@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422335059151",
+    "project_id": "contactsappkotlin",
+    "storage_bucket": "contactsappkotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422335059151:android:539f43e86a190155a513ba",
+        "android_client_info": {
+          "package_name": "com.example.contactsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0MrIRhLDCddzICAagdWN3Tt2vswRN-Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
